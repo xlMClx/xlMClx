@@ -1,0 +1,46 @@
+name: Update Repo Count Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily
+  workflow_dispatch:     # Allow manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Get repository count
+      id: get_repo_count
+      run: |
+        repo_count=$(curl -s https://api.github.com/users/xlMClx | jq '.public_repos')
+        echo "::set-output name=repo_count::$repo_count"
+
+    - name: Print README before
+      run: cat README.md
+
+    - name: Update README with badge
+      run: |
+        badge_url="https://img.shields.io/badge/Public_Repos-${{ steps.get_repo_count.outputs.repo_count }}-brightgreen"
+        # Replace the badge within the placeholder comment
+        sed -i "s|!\[Public Repositories\](https://img.shields.io/badge/Public_Repos-[0-9]*-brightgreen)|![Public Repositories]($badge_url)|g" README.md
+
+    - name: Print README after
+      run: cat README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update repo count badge"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
