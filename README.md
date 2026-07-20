@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=xlMClx&color=217ec4)
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&color=6f42c1&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FxlMClx)
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&color=6f42c1&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%xlMClx)
 
 #
 
