@@ -6,7 +6,7 @@
 
 <p>
 <a href="mailto:michael.cetinic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
-<a href="https://www.linkedin.com/in/mcetinic/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
+<a [![Linkedin](https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5)](https://www.linkedin.com/in/mcetinic/) /></a>
 </p>
 
 # Michael Cetinic
