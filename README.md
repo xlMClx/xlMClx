@@ -5,17 +5,28 @@
 #
 
 <p>
-<a href="https://fabriziomarras.com"><img alt="Website" src="./images/logo.png" width="18"/></a>
-<a href="https://fabriziomarras.com"><img alt="Website" src="https://img.shields.io/badge/-Website-0d1116?style=flat-square" /></a>
-<a href="mailto:fmarras79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
-<a href="https://www.linkedin.com/in/fabriziomarras/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
+<a href="mailto:michael.cetinic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
+<a href="https://www.linkedin.com/in/mcetinic/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
 </p>
 
-# Fabrizio Marras (PhD)
+# Michael Cetinic
 
-I am an Italian professional, living in the Netherlands.  
-I hold a PhD in Chemistry from the University of Amsterdam.  
-I am experienced in AI, software development, product and project management, with a strong background in design, graphics, animation and a drive for learning.
+As a Transformative Tech Leader & Growth Catalyst, my leadership style focuses on engagement, alignment, involvement, and fostering a collaborative, results-driven environment. I am hands-on, participative, and empathetic, focused on developing potential through active listening, passionate storytelling, and creating a culture of ownership. I lead by example and build strong partnerships, ensuring all stakeholders feel valued and motivated.
+
+With an open, inclusive communication style, I establish trust and collaboration, encouraging everyone to leverage their talents. While I trust my instincts, I rely on data for informed decisions. Though I prefer a high-level perspective, I understand the importance of detail.
+
+My approach is solution-driven, combining technical solutions and people, focused on delivering customer-centric outcomes. With extensive experience in operational management, strategic planning, and business development, I excel at scaling operations, driving growth, and implementing innovative solutions aligned with the company's vision and goals.
+
+Unique Value Proposition:
+•Operational Expertise: Proven track record in scaling Business Process Outsourcing (BPO) operations to over €7 million in annual value, enhancing efficiency and customer satisfaction.
+•Strategic Leadership: Defined culture, vision, mission, and strategy at LiveAboard.com, fostering innovation and growth.
+•Team Building & Development: Focus on coaching and developing team members, creating structured training programs, and implementing employee engagement initiatives.
+•Adaptability & Problem-Solving: Agile and adaptable, with a knack for solving complex challenges and implementing effective solutions in dynamic startup environments.
+
+I seek an environment and culture that resonate with my leadership style and values. I am interested in joining a startup or scale-up dedicated to making a positive impact, though I am open to opportunities with a similar fit. I enjoy building teams, creating a compelling vision, and using storytelling to engage individuals across the business. I am eager to contribute to an organization's growth and success while fostering connections among team members.
+
+Professional Skills: Operations Management, Team Development, Strategic Planning, Product Development (SCRUM/Agile), Product Roadmap, Project, Program, and Product Management
+Domain Knowledge: E-commerce, Travel, Contact Center, Vendor Management, Operations, Business Process Outsourcing, Enterprise Software, Small Business Software
 
 ## My skills
 
@@ -64,9 +75,9 @@ I am experienced in AI, software development, product and project management, wi
 
 ## My GitHub contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FabrizioMarras&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=450&card_height=200&ring=6F42C1&fire=217EC3&currStreakLabel=217EC3&sideNums=217EC3&currStreakNum=217EC3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xlMClx&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=450&card_height=200&ring=6F42C1&fire=217EC3&currStreakLabel=217EC3&sideNums=217EC3&currStreakNum=217EC3)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats-one-tawny-14.vercel.app/api?username=FabrizioMarras&hide_border=true&show_icons=true&bg_color=151515&hide_title=true&icon_color=217ec3&text_bold=false&text_color=9e9e9e&ring_color=6F42C1&theme=transparent)
+![Your GitHub stats](https://github-readme-stats-one-tawny-14.vercel.app/api?username=xlMClx&hide_border=true&show_icons=true&bg_color=151515&hide_title=true&icon_color=217ec3&text_bold=false&text_color=9e9e9e&ring_color=6F42C1&theme=transparent)
 <!--
 **xlMClx/xlMClx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
